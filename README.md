@@ -8,7 +8,6 @@
 - 💻 **Tech interests:** Cloud Infrastructure, DevOps, Kubernetes, CI/CD, and more  
 - 🚀 **Aspiring DevOps Engineer:** Building scalable, reliable systems is my passion  
 - 📚 **Learning philosophy:** Consistent growth through hard work and dedication  
-- 💡 **Fun fact:** I’m always exploring new tools and love contributing to open-source projects
 
 <details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
