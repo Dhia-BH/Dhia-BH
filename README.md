@@ -2,8 +2,9 @@
 
 # Hello there! 👋 I'm Dhia Ben Hamida 
 
-- 🎓 **CS student at FSB**  
-- 🏆 **AWS Certified Solutions Architect – Associate (SAA-C03)**  
+- 🎓 **Cloud and DevOps student at TekUp**  
+- 🏆 **4 x AWS Certified**
+- 🏆 **RedHat RHCSA Certified** 
 - 🌱 **Currently learning:** DevOps, Cloud Engineering, and Automation  
 - 💻 **Tech interests:** Cloud Infrastructure, DevOps, Kubernetes, CI/CD, and more  
 - 🚀 **Aspiring DevOps Engineer:** Building scalable, reliable systems is my passion  
@@ -74,7 +75,7 @@
   <summary><h2>🌟 What I'm currently up to</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-- Preparing for more AWS certifications
+- Preparing for more certifications
 - Practicing CI/CD pipelines and Kubernetes
 - Contributing to DevOps-related open-source projects
 
